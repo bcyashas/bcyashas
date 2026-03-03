@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>🎓 Student passionate about learning programming and web development<br>💻 Skills: HTML, CSS, JavaScript<br>🌱 Currently Learning: Advanced JavaScript and frontend concepts<br>🛠️ Interested In: Building responsive websites and small web applications<br>📚 Learning Style: Practice-based learning through projects<br>🎯 Goal: Become a skilled frontend / software developer<br>⚡ Strength: Problem-solving and continuous improvement
+🎓 Student passionate about learning programming and web development<br>💻 Skills: HTML, CSS, JavaScript<br>🌱 Currently Learning: Advanced JavaScript and frontend concepts<br>🛠️ Interested In: Building responsive websites and small web applications<br>📚 Learning Style: Practice-based learning through projects<br>🎯 Goal: Become a skilled frontend / software developer<br>⚡ Strength: Problem-solving and continuous improvement
 
 
 ## 🌐 Socials:
